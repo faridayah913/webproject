@@ -1,0 +1,1 @@
+xxxxxxx<?php /**PATH C:\xampp\htdocs\finalproject\resources\views/test.blade.php ENDPATH**/ ?>
